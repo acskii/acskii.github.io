@@ -1,0 +1,32 @@
+html {
+    background-color: rgb(57, 6, 6);
+    font-family: "Inconsolata", sans-serif;
+}
+
+body {
+    width: 750px;
+    height: 93vh;
+    margin: 10px auto;
+    padding: 0 15px 15px 15px;
+    background-color: rgb(85, 229, 72);
+    border: 7px solid rgb(35, 181, 28);
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+}
+
+h1 {
+    color: rgb(100, 159, 237);
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 3px 2px 0 black;
+}
+
+li,
+p {
+    letter-spacing: 1px;
+}
+  
