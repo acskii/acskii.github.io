@@ -1,0 +1,29 @@
+.construct h1, h2 {
+    text-align: center;
+    margin: 0 auto; 
+    font-size: 5.2em;
+    font-family: "VT323";
+    color: rgb(163, 159, 159);
+}
+
+.construct h1 {
+    margin-bottom: -4vh;
+}
+
+.construct {
+    margin-top: 26vh;
+    min-width: 600px;
+}
+
+#construct-cat {
+    opacity: 0.3;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    margin-top: 0.2em;
+    width: 80vh;
+}
+
+body {
+    margin: 0 auto;
+}
